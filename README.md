@@ -1,3 +1,4 @@
+![Super Store Sales Dashboard](https://github.com/user-attachments/assets/bc066ea5-92bf-4c50-a07a-dc26972b11b5)
 # 📊 Super Store Sales Dashboard
 
 This Qlik Sense app provides a comprehensive overview of sales and profit metrics for a fictional retail business, designed to help stakeholders analyze performance across different regions, segments, and product categories.
